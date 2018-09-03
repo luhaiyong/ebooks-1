@@ -18,3 +18,17 @@
    [https://avnpc.com/pages/devlang](https://avnpc.com/pages/devlang)      
    [http://kmaebashi.com/](http://kmaebashi.com/)   
 
+
+5. Virtual Machines: Versatile Platforms for Systems and Processes    
+	虚拟机系统与进程的通用平台    
+
+6. Language Implementation Patterns        
+   编程语言实现模式
+   
+7. Advanced Design and Implementation of Virtual Machines
+
+8. 深入理解Java虚拟机：JVM高级特性与最佳实践    
+
+9. The Garbage Collection Handbook: The Art of Automatic Memory Management
+
+10. The School of Niklaus Wirth(can not find)      

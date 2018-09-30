@@ -32,3 +32,9 @@
 9. The Garbage Collection Handbook: The Art of Automatic Memory Management
 
 10. The School of Niklaus Wirth(can not find)      
+
+## operation system
+1. 	Linux 内核完全剖析v0.11内核
+
+2.  Linux内核设计与实现(中文第三版)
+
